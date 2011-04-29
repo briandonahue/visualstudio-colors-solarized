@@ -69,6 +69,12 @@
 							<Item Name="Register Data Changed" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Smart Tag" Foreground="0x00D28B26" Background="0x02000000" BoldFont="No"/>
 							<Item Name="SQL DML Marker" Foreground="0x00D28B26" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL Operator" Foreground="0x00969483" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL Stored Procedure" Foreground="0x001648CB" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL String" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL System Function" Foreground="0x008236D3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL System Table" Foreground="0x00009985" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQLCMD Command" Foreground="0x00A1A193" Background="0x00423607" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x008236D3" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String(C# @ Verbatim)" Foreground="0x0098A12A" Background="0x02000000" BoldFont="Yes"/>
